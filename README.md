@@ -46,13 +46,4 @@ A javascript demo is (usually) available at http://api.tinode.co/x/example-react
 * Support for other SQL and NoSQL backends.
 * Plugins.
 
-## Screenshots
 
-### Web
-
-<img src="web-topic.png" alt="javascript app screenshot" width=900/>
-
-### Android
-
-<img src="android-contacts.png" alt="android screenshot" width=270 />
-<img src="android-messages.png" alt="javascript app screenshot" width=270 />
