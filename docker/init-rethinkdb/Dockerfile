@@ -3,7 +3,7 @@
 # container is named 'rethinkdb'):
 # $ docker run --name=init-tinode-db --link rethinkdb --env UID_ENCRYPTION_KEY=base64+encoded+16+bytes init-rethinkdb
 
-FROM golang
+FROM golang:1.7-onbuild
 
 MAINTAINER Gene Sokolov <or.else@gmail.com>
 
